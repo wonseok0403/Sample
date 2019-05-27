@@ -13,3 +13,5 @@
   After modelling, you may want to check models status. Click the export button, and check the Modeler server status. 
 3. Third, you can check model's value in realtime.
   Modelling makes you wonder how my model works. You just click the client view, and drag the node which you want to check value. That view makes you to see the value.
+
+## How to install?
