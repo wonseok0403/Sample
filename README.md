@@ -35,8 +35,8 @@
 
 ### Email Validation
 > * In our license policy collect user's email to our own server. So please type your email correctly.  
-![Alt text](/images/initial-screen.png)  
+![Alt text](Sample/images/initial-screen.png)  
 > You may see this screen first, scroll down to license, and click to agree the check box.  
-![Alt text](/images/email-verify-screen.png)  
+![Alt text](Sample/images/email-verify-screen.png)  
 > After initial screen, write your email. And check the email. The hash value will be sent your mail.   
 
