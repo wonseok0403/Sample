@@ -52,7 +52,11 @@ The software product under this License is provided free of charge until our sof
 
 2.4. The Licensee will not have any proprietary rights in and to the Software. The Licensee acknowledges and agrees that the Licensor retains all copyrights and other proprietary rights in and to the Software.
 
-2.5 Use within the scope of this License is free of charge and no royalty or licensing fees shall be paid by the Licensee.
+2.5 Use within the scope of this License is free of charge and no royalty or licensing fees shall be paid by the Licensee.\
+
+2.6 This software contains Licensee's email address. Obtained email addressess are managed by Licensor UVC.
+
+2.7 Licensee agrees to use their email to be used in marketing.
 
 3. INTELLECTUAL PROPERTY RIGHTS
 3.1 This License does not transmit any intellectual rights on the Software. The Software and any copies that the Licensee is authorized by the Licensor to make are the intellectual property of and are owned by the Licensor.
