@@ -15,3 +15,22 @@
   Modelling makes you wonder how my model works. You just click the client view, and drag the node which you want to check value. That view makes you to see the value.
 
 ## How to install?
+1. Clone this project.
+2. Un-Zip the setup.zip.
+3. Execute setup.exe
+
+### System Minimum Requirements
+> CPU : Intel Core 2 Duo Processor  
+> RAM : 1GB  
+> VGA : Intel HD Graphics  
+> Resolution : 1680 * 1050  
+> OS : Windows 10  
+
+### System Recommended Requirements.
+> CPU: : Intel Core 4 Quad Processor  
+> RAM : 2GB  
+> VGA : Intel HD Graphics  
+> Resolution : 1920 * 1080  
+> OS : Windows 10  
+
+### Email Validation
