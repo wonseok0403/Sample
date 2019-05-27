@@ -34,9 +34,9 @@
 > OS : Windows 10  
 
 ### Email Validation
-> * In our license policy collect user's email to our own server. So please type your email correctly.  
-![Alt text](/images/initial-screen.png)  
-> You may see this screen first, scroll down to license, and click to agree the check box.  
-![Alt text](/images/email-verify-screen.png)  
-> After initial screen, write your email. And check the email. The hash value will be sent your mail.   
+> * In our license policy collect user's email to our own server. So please type your email correctly.  <br>
+> <p align="center"><img align="center" src="/images/initial-screen.png"></p><br>   
+> You may see this screen first, scroll down to license, and click to agree the check box.  <br>  
+> <p align="center"><img align="center" src="/images/email-verify-screen.png"></p><br>  
+> After initial screen, write your email. And check the email. The hash value will be sent your mail. <br>   
 
