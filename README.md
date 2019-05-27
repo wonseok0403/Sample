@@ -40,3 +40,15 @@
 > <p align="center"><img align="center" src="/images/email-verify-screen.png"></p><br>  
 > After initial screen, write your email. And check the email. The hash value will be sent your mail. <br>   
 
+
+## How to use it?
+1. [How to start? - Install & Properties](https://www.youtube.com/watch?v=AY4uXtxAfig)
+2. [Let's start - simple robot modelling](https://www.youtube.com/watch?v=wGuSE0cgBT4)
+3. [Let's start - export & save](https://www.youtube.com/watch?v=50dZb-ifc0A)
+4. [Let's start - client view](https://www.youtube.com/watch?v=50dZb-ifc0A)
+
+## Bug report
+### Please throw issues!
+   we want to make the most beautiful modeler in the world!
+   If you find bug, throw issue into git issues!
+   
